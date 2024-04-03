@@ -1,4 +1,4 @@
-# dummy-mock-31bbabaabbab
+# dummy-mock-31abbabbaaaa
 
 REPLACE_WITH_PROJECT_DESCRIPTION
 
@@ -20,7 +20,7 @@ REPLACE_WITH_TECH_STACK_POINTS
 
 ```sh
 git clone https://github.com/GPT-Engineer-App-Dev/dummy-mock-31.git
-cd dummy-mock-31bbabaabbab
+cd dummy-mock-31abbabbaaaa
 npm i
 ```
 
